@@ -1,0 +1,3 @@
+[submodule "Assets/NetworkAvatar"]
+	path = Assets/NetworkAvatar
+	url = git@github.com:CarouselDancing/network-avatar.git
