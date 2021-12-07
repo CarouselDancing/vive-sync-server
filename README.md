@@ -22,8 +22,8 @@ Requires Unity version 2020.3.20f1.
 The test client will spawn an avatar in the default pose in the scene.
 
 1. Open the scene Assets/NetworkAvatar/Scenes/main.unity
-2. Set the target IP the NetworkManager
-2. Press Play
-3. Press on Join
+2. Set the target IP in the NetworkManager
+3. Press Play
+4. Press on Join
 
 
