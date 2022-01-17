@@ -18,6 +18,8 @@ Requires Unity version 2020.3.20f1.
 
 
 ## Starting a test client in the Editor
+## CAUTION : this is the procedure for starting a test client from the server module.
+## For starting the client, please refer to the procedure described in the vive-sync-client readme. 
 
 The test client will spawn an avatar in the default pose in the scene.
 
