@@ -1,0 +1,11 @@
+{
+	"url": "localhost",
+	"port": 7777,
+	"rpmURL": "https://d1a370nemizbjq.cloudfront.net/209a1bc2-efed-46c5-9dfd-edc8a1d9cbe4.glb",
+	"activateHipTracker" : true,
+	"activateFootTrackers" : true,
+	"hipTracker" : {"deviceID": 6, "posOffset": [0,0,0], "rotOffset": [0,0,0]},
+	"leftFootTracker" : {"deviceID": 7, "posOffset": [0,0,0], "rotOffset": [0,0,0]},
+	"rightFootTracker" : {"deviceID": 8, "posOffset": [0,0,0], "rotOffset": [0,0,0]},
+	"activateDebugVis": false
+}
