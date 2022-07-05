@@ -5,10 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/NetworkAvatar/Scenes/main.unity
-    guid: f39dd153861c48245ba5375d0ad98379
+    path: Assets/Scenes/ServerScene.unity
+    guid: 7d9ef7946ac6a9343bd8399ae2c911f8
+  - enabled: 1
+    path: Assets/BaselineAgent/Scenes/base.unity
+    guid: 90d9589bcd174664b8d9665b9b0cee12
   m_configObjects: {}
