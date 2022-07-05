@@ -7,3 +7,6 @@
 [submodule "Assets/BaselineAgent"]
 	path = Assets/BaselineAgent
 	url = git@github.com:CarouselDancing/baseline-agent.git
+[submodule "Assets/MotionMatching"]
+	path = Assets/MotionMatching
+	url = git@github.com:CarouselDancing/motion-matching.git
