@@ -12,7 +12,7 @@ Requires Unity version 2021.3.5f1.
 
 ## Starting the Server in the Editor
 
-1. Open the scene Assets/NetworkAvatar/BaselineAgent/main.unity
+1. Open the scene Assets/BaselineAgent/main.unity
 2. Press Play
 3. Press on Host
 
