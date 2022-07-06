@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/ServerScene.unity
     guid: 7d9ef7946ac6a9343bd8399ae2c911f8
   - enabled: 1
-    path: Assets/BaselineAgent/Scenes/base.unity
+    path: Assets/BaselineAgent/Scenes/main.unity
     guid: 90d9589bcd174664b8d9665b9b0cee12
   m_configObjects: {}
