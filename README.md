@@ -8,7 +8,9 @@ git clone git@github.com:CarouselDancing/vive-sync-server.git --recursive
 
 ```
 
-Requires Unity version 2021.3.5f1.
+The project requires Unity version 2021.3.5f1.
+
+Before opening the project you need to download the data using the PowerShell script /Assets/Resources/download_data.ps1
 
 ## Starting the Server in the Editor
 
@@ -18,8 +20,9 @@ Requires Unity version 2021.3.5f1.
 
 
 ## Starting a test client in the Editor
-## CAUTION : this is the procedure for starting a test client from the server module.
-## For spawning an avatar in the client, please refer to the procedure described in the vive-sync-client readme. 
+CAUTION : this is the procedure for starting a test client from the server module.
+
+For spawning an avatar in the client, please refer to the procedure described in the vive-sync-client readme. 
 
 The test client will spawn an avatar in the default pose in the scene.
 

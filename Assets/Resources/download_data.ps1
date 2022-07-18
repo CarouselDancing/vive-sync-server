@@ -1,0 +1,1 @@
+Invoke-WebRequest -Uri https://cloud.dfki.de/owncloud/index.php/s/t7oZSyHQk8g3aWy/download/database_merengue_raw.bin.txt  -OutFile "database_merengue_raw.bin.txt"
