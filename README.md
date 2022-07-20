@@ -14,9 +14,9 @@ Before opening the project you need to download the data using the PowerShell sc
 
 ## Starting the Server in the Editor
 
-1. Open the scene Assets/BaselineAgent/main.unity
+1. Open the scene Assets/Scenes/Start.unity
 2. Press Play
-3. Press on Host
+3. Press on Server
 
 
 ## Starting a test client in the Editor
