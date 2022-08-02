@@ -468,8 +468,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4b72b3c80f1613e4ba62e5152b6d1a31, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotationScale: 1
-  translationScale: 0.1
+  rotationScale: 10
+  translationScale: 1
   zoomSpeed: 1
   FPS: 60
   pitch: 0
@@ -906,6 +906,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3cda1f97e4809244e98f40f0976a529f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  protocol: https
+  port: 8888
+  url: motion.dfki.de
+  usePort: 1
+  usePortWorkAround: 1
   loadingscreen: {fileID: 0}
   slider: {fileID: 0}
   debugMessage: {fileID: 0}
