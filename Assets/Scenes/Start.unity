@@ -264,14 +264,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1952856952}
     m_Modifications:
-    - target: {fileID: 5719619693320733848, guid: d6fe9bf4a2e1ef945801680f559ceb9a, type: 3}
-      propertyPath: m_RenderMode
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5719619693320733848, guid: d6fe9bf4a2e1ef945801680f559ceb9a, type: 3}
-      propertyPath: m_AdditionalShaderChannelsFlag
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 5719619693320733849, guid: d6fe9bf4a2e1ef945801680f559ceb9a, type: 3}
       propertyPath: m_Pivot.x
       value: 0
