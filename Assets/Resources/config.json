@@ -13,6 +13,13 @@
 	"rightControllerTracker" : {"posOffset": [0.05,-0.07,-0.029], "rotOffset": [0,0,0]},
 	"activateDebugVis": false,
 	"networkMode": "host",
-	"protocol": "kcp"
+	"protocol": "kcp",
+	"serverRegistryConfig": {
+		"url": "motion.dfki.de",
+		"port": 8888,
+		"defaultServer": "91.12.30.16",
+		"useLocalIP": false,
+		"publicIP": ""
+	}
 
 }

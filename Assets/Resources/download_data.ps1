@@ -1,1 +1,2 @@
-Invoke-WebRequest -Uri https://cloud.dfki.de/owncloud/index.php/s/t7oZSyHQk8g3aWy/download/database_merengue_raw.bin.txt  -OutFile "database_merengue_raw.bin.txt"
+Invoke-WebRequest -Uri https://cloud.dfki.de/owncloud/index.php/s/3DPbMAKcqi7FwBL/download/database_merengue_raw5.npz.txt  -OutFile "database_merengue_raw5.npz.txt"
+Invoke-WebRequest -Uri https://cloud.dfki.de/owncloud/index.php/s/c2A3eET4QxoaefF/download/database_salsa_raw5.npz.txt -OutFile "database_salsa_raw5.npz.txt"
