@@ -19,7 +19,7 @@
 		"url": "motion.dfki.de",
 		"port": 8888,
 		"defaultServer": "91.12.30.16",
-		"useLocalIP": false,
+		"useLocalIP": true,
 		"publicIP": ""
 	}
 
